@@ -11,4 +11,6 @@ root.render(
   </React.StrictMode>
 );
 
+// 깃 연동 확인 메세지
+
 reportWebVitals();
